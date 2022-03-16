@@ -5,4 +5,4 @@ function dividir (parametro1, parametro2) {
     return parametro1 / parametro2;
 }
 
-console.log(dividir(10, 0));
+// console.log(dividir(10, 0));
